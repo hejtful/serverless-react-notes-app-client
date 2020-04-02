@@ -13,5 +13,6 @@ export default {
     USER_POOL_ID: "eu-central-1_bCV9nOVKJ",
     APP_CLIENT_ID: "7feei7o62l0kn39ejgucqak798",
     IDENTITY_POOL_ID: "eu-central-1:3abf495d-7a32-4b8c-81f8-71298b562bb8"
-  }
+  },
+  STRIPE_KEY: "pk_test_s6V45DAQsAfLp4qYSUny60Uz00UkXLFxtT"
 };
